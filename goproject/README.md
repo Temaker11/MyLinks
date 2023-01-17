@@ -4,10 +4,3 @@
 
 <p align="center">
   <img alt="License" src="./.github/preview.jpg">
-</p>
-
-<br>
-
-</p>
-
-#
