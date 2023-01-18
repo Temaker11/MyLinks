@@ -99,6 +99,7 @@ margin-top: 8px;
 }
 
 #switch button:hover {
+  transition: 0.2s;
   outline: 8px solid var(--hightlight-color)
   
   
